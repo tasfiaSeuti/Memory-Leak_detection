@@ -23,6 +23,7 @@ If we go back and unregister the registered listener on the Leaking Activity and
 
 ### Here the Introduction to Memory Leak Presentation slides/pdf are attached
 [MemoryLeakinAndroid.pptx](https://github.com/tasfiaSeuti/Memory-Leak_detection/files/9438513/MemoryLeakinAndroid.pptx)
+
 [Memory Leak in Android- Tasfia Seuti.pptx.pdf](https://github.com/tasfiaSeuti/Memory-Leak_detection/files/9438514/Memory.Leak.in.Android-.Tasfia.Seuti.pptx.pdf)
 
 
