@@ -17,6 +17,10 @@ This is an Android Application made using Android Studio for teh demonstration o
 ### Solution
 If we go back and unregister the registered listener on the Leaking Activity and run the operations again, we will dind that the memory leak problem has benn solved.
 
+### Programming Language: Kotlin
+
+### Markup Language: XML
+
 ### Here the Introduction to Memory Leak Presentation slides/pdf are attached
 [MemoryLeakinAndroid.pptx](https://github.com/tasfiaSeuti/Memory-Leak_detection/files/9438513/MemoryLeakinAndroid.pptx)
 [Memory Leak in Android- Tasfia Seuti.pptx.pdf](https://github.com/tasfiaSeuti/Memory-Leak_detection/files/9438514/Memory.Leak.in.Android-.Tasfia.Seuti.pptx.pdf)
