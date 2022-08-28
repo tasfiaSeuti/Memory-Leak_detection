@@ -1,13 +1,13 @@
 # Memory-Leak_detection
 
-This is an Android Application made using Android Studio for teh demonstration of Memory Leak in Android Apps using Android Profiler. 
+This is an Android Application made using Android Studio for the demonstration of Memory Leak in Android Apps using Android Profiler. 
 
 ### Description
 
 ### Memory Leak and Crash
 1. In this app, There are two activities, i.e. Main activity consists of a button, clicking which opes a new activity "Leaking Activity"
 2. We created a GlobalSingleton Interface, which is implemented by other classes to recieve events
-3. In this GlobalSingleton, we can register/unregister listeners(these listeners can be adde3d or removed)
+3. In this GlobalSingleton, we can register/unregister listeners(these listeners can be added or removed)
 4. The Leaking Activity impletemts the GlobalSingleton interface and registers the listener in onStart() but never never unregisters it
 5. Now if we see the android profiler, we find that there is memory leak by clicking on Memory lane
 (Memory lane shows how much memory is allocated for different categories liuke java, native etc)
